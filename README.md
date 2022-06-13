@@ -6,5 +6,5 @@ We train or model with 50 Epoch and 5 Epoch for the Fine Tuning
 
 We got the result :
 <p align="center">
-  <img align="center" width="400" src="/result/result1.png" />
+  <img align="center" width="400" src="/result/resullt1.png" />
 </p>
