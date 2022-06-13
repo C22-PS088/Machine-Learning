@@ -8,5 +8,5 @@ We got the result :
 <p align="center">
   <img align="center" width="400" src="/Result/graph1.png" />
   <img align="center" width="400" src="/Result/resullt1.png" />
-  <img align="center" width="400" src="/Result/result2.png" />
+  <img align="center" width="400" src="/Result/result2.jpeg" />
 </p>
